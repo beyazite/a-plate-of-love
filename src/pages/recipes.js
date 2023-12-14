@@ -1,5 +1,7 @@
 import React from 'react'
 import { Helmet } from 'react-helmet-async'
+import Header from "./shared components/header"; 
+import Footer from "./shared components/footer";
 
 function recipes() {
   return (
@@ -8,7 +10,9 @@ function recipes() {
         <title>A Plate of Love - Recipes</title>
         <meta name="description" content="Chef Azumi Nino Fajarini" />
       </Helmet>
-      recipes</div>
+      <Header/>
+      recipes
+      <Footer/></div>
   )
 }
 
