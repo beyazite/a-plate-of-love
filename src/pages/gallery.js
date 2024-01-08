@@ -11,7 +11,7 @@ function gallery() {
         <meta name="description" content="Chef Azumi Nino Fajarini" />
       </Helmet>
       <Header/>
-      gallery
+      <div style={{position: "absolute", top: "56px"}}>gallery</div>
       <Footer/></div>
   )
 }

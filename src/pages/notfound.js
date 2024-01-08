@@ -9,7 +9,7 @@ function notfound() {
         <title>A Plate of Love - Page Not Found</title>
         <meta name="description" content="Chef Azumi Nino Fajarini" />
       </Helmet>
-        notfound
+        <div  style={{position: "absolute", top: "56px"}}>Not Found</div>
         <Link to="/">Go Main Page</Link>
         </div>
   )
