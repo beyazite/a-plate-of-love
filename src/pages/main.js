@@ -1,6 +1,7 @@
 import React from 'react'
-import Header from "./shared components/header";
-import Footer from "./shared components/footer";
+import Header from "./components/shared components/header";
+import Footer from "./components/shared components/footer";
+import MainStory from './components/mainStory';
 import { Helmet } from 'react-helmet-async';
 
 function main() {
@@ -11,7 +12,7 @@ function main() {
         <meta name="description" content="Chef Azumi Nino Fajarini" />
       </Helmet>
       <Header/>
-      
+      <MainStory/>
       <Footer/>
     </div>
   )
