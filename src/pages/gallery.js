@@ -1,7 +1,7 @@
 import React from 'react'
 import { Helmet } from 'react-helmet-async'
-import Header from "./shared components/header";
-import Footer from "./shared components/footer";
+import Header from "./components/shared components/header";
+import Footer from "./components/shared components/footer";
 
 function gallery() {
   return (

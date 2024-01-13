@@ -4,6 +4,7 @@ import { Routes, Route } from 'react-router-dom';
 import Home from "./pages/main";
 import Gallery from "./pages/gallery";
 import Portfolio from "./pages/portfolio";
+import Recipes from "./pages/recipes";
 import NotFound from "./pages/notfound";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <Route path="/" element={<Home/>} />
         <Route path="/gallery" element={<Gallery/>} />
         <Route path="/portfolio" element={<Portfolio/>} />
+        <Route path="/recipes" element={<Recipes/>} />
         <Route path="/*" element={<NotFound/>} />
       </Routes>
      </HelmetProvider>
