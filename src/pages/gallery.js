@@ -7,7 +7,7 @@ import { PhotoProvider, PhotoView } from 'react-photo-view';
 
 function gallery() {
 
-  const images = ["/assets/azumi-basket.jpeg","assets/food1.jpeg","assets/class.jpeg","assets/food2.jpeg","/assets/azumi-friends.jpeg","assets/food.jpeg","/assets/azumi-graduated.jpeg","assets/food3.jpeg","assets/tree-branch.png","assets/food4.jpeg","assets/applause.jpeg","assets/food5.jpeg","assets/grad.jpeg","assets/grad1.jpeg"];
+  const images = ["assets/azumi-basket.jpeg","assets/food1.jpeg","assets/class.jpeg","assets/food2.jpeg","assets/azumi-friends.jpeg","assets/food.jpeg","assets/azumi-graduated.jpeg","assets/food3.jpeg","assets/tree-branch.png","assets/food4.jpeg","assets/applause.jpeg","assets/food5.jpeg","assets/grad.jpeg","assets/grad1.jpeg"];
   return (
     <div>
       <Helmet>
