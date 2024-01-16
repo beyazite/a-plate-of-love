@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/a-plate-of-love/static/css/main.65822a01.css",
-    "main.js": "/a-plate-of-love/static/js/main.f376f73c.js",
+    "main.js": "/a-plate-of-love/static/js/main.869bfc59.js",
     "static/media/portfolio-azumi-nino-fajarini.pdf": "/a-plate-of-love/static/media/portfolio-azumi-nino-fajarini.337a2f0d01ca17a9b94f.pdf",
     "static/media/booklet-recipes.pdf": "/a-plate-of-love/static/media/booklet-recipes.428f84450e6a979c091e.pdf",
     "static/media/azumi-graduated.jpeg": "/a-plate-of-love/static/media/azumi-graduated.67d2c856a49094a0f281.jpeg",
@@ -11,10 +11,10 @@
     "static/media/azumi-friends.jpeg": "/a-plate-of-love/static/media/azumi-friends.d993e27fde0e6b4ce4b4.jpeg",
     "index.html": "/a-plate-of-love/index.html",
     "main.65822a01.css.map": "/a-plate-of-love/static/css/main.65822a01.css.map",
-    "main.f376f73c.js.map": "/a-plate-of-love/static/js/main.f376f73c.js.map"
+    "main.869bfc59.js.map": "/a-plate-of-love/static/js/main.869bfc59.js.map"
   },
   "entrypoints": [
     "static/css/main.65822a01.css",
-    "static/js/main.f376f73c.js"
+    "static/js/main.869bfc59.js"
   ]
 }
