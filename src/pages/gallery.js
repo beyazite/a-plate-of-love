@@ -15,12 +15,11 @@ function gallery() {
         <meta name="description" content="Chef Azumi Nino Fajarini" />
       </Helmet>
       <Header/>
-      <div style={{position: "absolute", top: "56px"}}>gallery</div>
-      <PhotoProvider >
-      <div className="foo mt-5">
+      <PhotoProvider>
+      <div className="foo mt-5 mb-4">
         {images.map((item, index) => (
           <PhotoView key={index} src={item}>
-            <img src={item} alt=""  className='m-1' />
+            <img src={item} alt=""  className='mt-3 ms-1' style={{maxWidth: "98%"}}/>
           </PhotoView>
         ))}
       </div>
