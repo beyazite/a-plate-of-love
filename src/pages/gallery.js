@@ -7,7 +7,7 @@ import { PhotoProvider, PhotoView } from 'react-photo-view';
 
 function gallery() {
 
-  const images = ["./a-plate-of-love/assets/azumi-basket.jpeg","./a-plate-of-love/assets/food1.jpeg","./a-plate-of-love/assets/class.jpeg","./a-plate-of-love/assets/food2.jpeg","./a-plate-of-love/assets/azumi-friends.jpeg","./a-plate-of-love/assets/food.jpeg","./a-plate-of-love/assets/azumi-graduated.jpeg","./a-plate-of-love/assets/food3.jpeg","./a-plate-of-love/assets/tree-branch.png","./a-plate-of-love/assets/food4.jpeg","./a-plate-of-love/assets/applause.jpeg","./a-plate-of-love/assets/food5.jpeg","./a-plate-of-love/assets/grad.jpeg","./a-plate-of-love/assets/grad1.jpeg"];
+  const images = ["./assets/azumi-basket.jpeg","./assets/food1.jpeg","./assets/class.jpeg","./assets/food2.jpeg","./assets/azumi-friends.jpeg","./assets/food.jpeg","./assets/azumi-graduated.jpeg","./assets/food3.jpeg","./assets/tree-branch.png","./assets/food4.jpeg","./assets/applause.jpeg","./assets/food5.jpeg","./assets/grad.jpeg","./assets/grad1.jpeg"];
   return (
     <div>
       <Helmet>
